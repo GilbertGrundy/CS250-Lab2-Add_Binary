@@ -1,7 +1,11 @@
 Gilbert Grundy CS250
 
-This program simply adds two binary numbers, given to it
-by the command line.
+This program is supppose to imitate a circuit containing a half-adder, and a 
+full-adder. Two binary numbers are given by the user through the command line,
+and the program shows the steps of addition before printing the binary number
+spaced out in 4-bit (bytes) sections with no leading zeros.
+
+The user can do several additions without re-starting the program.
 
 Sample Program Run:
 
